@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Qui a \u00e9crit Les Mis\u00e9rables ?",
+        "options": [
+            "Victor Hugo",
+            " Charles Baudelaire",
+            "\u00c9mile Zola",
+            "Albert Camus"
+        ],
+        "correct_answer": "Victor Hugo"
+    },
+    {
+        "question": "Qui est l'auteur de la pi\u00e8ce Ph\u00e8dre ?",
+        "options": [
+            "Moli\u00e8re",
+            "Corneille",
+            "Jean Racine",
+            "Voltaire"
+        ],
+        "correct_answer": "Jean Racine"
+    },
+    {
+        "question": "Qui est l'auteur de Madame Bovary ?",
+        "options": [
+            "Gustave Flaubert",
+            "\u00c9mile Zola",
+            "Honor\u00e9 de Balzac",
+            "Victor Hugo"
+        ],
+        "correct_answer": "Gustave Flaubert"
+    },
+    {
+        "question": "Quel est le genre litt\u00e9raire de Les Fleurs du mal de Charles Baudelaire ?",
+        "options": [
+            "Roman",
+            "Essai",
+            " Recueil de po\u00e8mes",
+            "Pi\u00e8ce de th\u00e9\u00e2tre"
+        ],
+        "correct_answer": " Recueil de po\u00e8mes"
+    }
+]
